@@ -1,3 +1,29 @@
+# v1.0.0
+
+## Backwards Incompatible Changes
+
+* Java 7 is not supported anymore
+
+## Fixed Issues
+
+* Make it easier to copy the stack trace from an error message [#380](https://github.com/TNG/JGiven/issues/380)
+
+# v0.17.1
+
+## Fixed Issues
+
+* Fix NPE when having @Disabled test in JUnit 5 [#376](https://github.com/TNG/JGiven/issues/376)
+
+# v0.17.0
+
+## New Features
+
+* Java 11 is supported now [#370](https://github.com/TNG/JGiven/issues/370)
+
+## Fixed Issues
+
+* Fixed an issue with JUnit 5 and parameterized tests to get the argument values [#372](https://github.com/TNG/JGiven/pull/372)
+
 # v0.16.1
 
 ## New Features
